@@ -68,7 +68,7 @@ karena dari (1+2+3)/3
 
 
 
-nah untuk \*\*kwargs ini sama seperti \*args yang mana yg penting \*\*-nya. penggunaan \*\*kwargs kita memerluakan keyword untuk penggunaan fungsinya, nah cara tau keyword yang dipakai, kita kasih tau dari hints yg kita berikan.
+nah untuk \*\*kwargs ini sama seperti \*args yang mana yg penting \*\*-nya. penggunaan \*\*kwargs kita memerluakan keyword untuk penggunaan fungsinya, nah cara tau keyword yang dipakai, kita kasih tau dari hints yg kita berikan. 
 
 
 
@@ -161,6 +161,10 @@ print(f"hasil jumlah {hasil}")
 outputnya adalah
 
 hasil jumlah 10
+
+kesimpulannya output argumen menggunakan * adalah tuples dan ** adalah dict.
+
+kalo mau make fungsi yg ada ** sebagai argumennya, masukan keynya. contoh fungsi(key='a')
 
 
 
