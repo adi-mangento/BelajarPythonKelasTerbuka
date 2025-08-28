@@ -1,0 +1,8 @@
+===== File 1 =====
+isi file ke-1
+===== File 2 =====
+isi file ke-2
+===== File 3 =====
+isi file ke-3
+===== File 4 =====
+isi file ke-4
